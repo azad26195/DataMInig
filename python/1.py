@@ -1,3 +1,3 @@
 print "hello"
 def function():
-	pass
+	print "Hello"
